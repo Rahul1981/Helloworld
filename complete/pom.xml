@@ -60,12 +60,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://ec2-18-188-191-150.us-east-2.compute.amazonaws.com:8081/repository/maven-releases/</url>
+            <url>http://18.222.102.164:8081/repository/test000release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://ec2-18-188-191-150.us-east-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
+            <url>http://18.222.102.164:8081/repository/test000snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 	
